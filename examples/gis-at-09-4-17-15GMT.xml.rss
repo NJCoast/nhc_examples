@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="http://www.nhc.noaa.gov">
+<channel>
+<pubDate>Mon, 04 Sep 2017 15:52:35 GMT</pubDate>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>Atlantic Basin GIS Data for Active Tropical Cyclones</description>
+<link>http://www.nhc.noaa.gov/gis/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>http://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>http://www.nhc.noaa.gov/</link>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins</title>
+<description>Shapefile last updated Mon, 04 Sep 2017 15:26:05 GMT</description>
+<pubDate>Mon, 04 Sep 2017 15:26:05 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip</link>
+<guid isPermaLink="false">gis-120h5wsp-shp-201709041526</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary - Hurricane Irma (AT1/AL112017)</title>
+ <guid isPermaLink="false">summary-al112017-201709041447</guid>
+ <pubDate>Mon, 04 Sep 2017 14:47:58 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/041447.shtml</link>
+ <description>
+  ...HURRICANE WARNINGS ISSUED FOR PORTIONS OF THE LEEWARD ISLANDS... ...HURRICANE WATCHES ISSUED FOR THE BRITISH AND U.S. VIRGIN ISLANDS AND PUERTO RICO...
+ As of 11:00 AM AST Mon Sep 4
+ the center of Irma was located near 16.8, -53.3
+ with movement WSW at 14 mph.
+ The minimum central pressure was 944 mb
+ with maximum sustained winds of about 120 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>16.8, -53.3</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Irma</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL112017</nhc:atcf>
+  <nhc:datetime>11:00 AM AST Mon Sep 4</nhc:datetime>
+  <nhc:movement>WSW at 14 mph</nhc:movement>
+  <nhc:pressure>944 mb</nhc:pressure>
+  <nhc:wind>120 mph</nhc:wind>
+  <nhc:headline> ...HURRICANE WARNINGS ISSUED FOR PORTIONS OF THE LEEWARD ISLANDS... ...HURRICANE WATCHES ISSUED FOR THE BRITISH AND U.S. VIRGIN ISLANDS AND PUERTO RICO...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>ATCF XML Prototype [xml] - Hurricane Irma (AT1/AL112017)</title>
+<description>Issued at  Mon, 04 Sep 2017 14:47:43 GMT. This is only a prototype and the file format may change without notice.</description>
+<pubDate>Mon, 04 Sep 2017 14:47:43 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT11/atcf-al112017.xml</link>
+<guid isPermaLink="false">atcf-xml-al112017-201709041447</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #021 Forecast [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Mon, 04 Sep 2017 14:59:22 GMT</description>
+<pubDate>Mon, 04 Sep 2017 14:59:22 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al112017_5day_021.zip</link>
+<guid isPermaLink="false">gis-forecast-shp-al112017-021-201709041459</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #021 Forecast Track [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Mon, 04 Sep 2017 15:52:27 GMT</description>
+<pubDate>Mon, 04 Sep 2017 15:52:27 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_021adv_TRACK.kmz</link>
+<guid isPermaLink="false">gis-track-kml-al112017-021-201709041552</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #021 Cone of Uncertainty [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Mon, 04 Sep 2017 15:52:22 GMT</description>
+<pubDate>Mon, 04 Sep 2017 15:52:22 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_021adv_CONE.kmz</link>
+<guid isPermaLink="false">gis-cone-kml-al112017-021-201709041552</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #021 Watches/Warnings [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Mon, 04 Sep 2017 15:52:25 GMT</description>
+<pubDate>Mon, 04 Sep 2017 15:52:25 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_021adv_WW.kmz</link>
+<guid isPermaLink="false">gis-wwa-kml-al112017-021-201709041552</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #021 Wind Field [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Initial and Forecast Surface Winds. Shapefile last updated Mon, 04 Sep 2017 14:59:52 GMT</description>
+<pubDate>Mon, 04 Sep 2017 14:59:52 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al112017_fcst_021.zip</link>
+<guid isPermaLink="false">gis-wind-shp-al112017-021-201709041459</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Track, Points, and Wind Swath. Shapefile last updated Mon, 04 Sep 2017 14:59:52 GMT</description>
+<pubDate>Mon, 04 Sep 2017 14:59:52 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al112017_best_track.zip</link>
+<guid isPermaLink="false">gis-bt-shp-al112017-201709041459</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track Points [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Mon, 04 Sep 2017 14:59:52 GMT</description>
+<pubDate>Mon, 04 Sep 2017 14:59:52 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al112017_best_track.kmz</link>
+<guid isPermaLink="false">gis-btpts-kml-al112017-201709041459</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

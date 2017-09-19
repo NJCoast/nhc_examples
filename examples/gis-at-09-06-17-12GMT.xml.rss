@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="http://www.nhc.noaa.gov">
+<channel>
+<pubDate>Tue, 05 Sep 2017 12:19:09 GMT</pubDate>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>Atlantic Basin GIS Data for Active Tropical Cyclones</description>
+<link>http://www.nhc.noaa.gov/gis/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>http://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>http://www.nhc.noaa.gov/</link>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins</title>
+<description>Shapefile last updated Tue, 05 Sep 2017 09:24:10 GMT</description>
+<pubDate>Tue, 05 Sep 2017 09:24:10 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip</link>
+<guid isPermaLink="false">gis-120h5wsp-shp-201709050924</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary - Hurricane Irma (AT1/AL112017)</title>
+ <guid isPermaLink="false">summary-al112017-201709051147</guid>
+ <pubDate>Tue, 05 Sep 2017 11:47:33 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/051159.shtml</link>
+ <description>
+  ...IRMA BECOMES AN EXTREMELY DANGEROUS CATEGORY 5 HURRICANE... ...PREPARATIONS SHOULD BE RUSHED TO COMPLETION IN THE HURRICANE WARNING AREA...
+ As of 8:00 AM AST Tue Sep 5
+ the center of Irma was located near 16.7, -57.7
+ with movement W at 14 mph.
+ The minimum central pressure was 929 mb
+ with maximum sustained winds of about 175 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>16.7, -57.7</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Irma</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL112017</nhc:atcf>
+  <nhc:datetime>8:00 AM AST Tue Sep 5</nhc:datetime>
+  <nhc:movement>W at 14 mph</nhc:movement>
+  <nhc:pressure>929 mb</nhc:pressure>
+  <nhc:wind>175 mph</nhc:wind>
+  <nhc:headline> ...IRMA BECOMES AN EXTREMELY DANGEROUS CATEGORY 5 HURRICANE... ...PREPARATIONS SHOULD BE RUSHED TO COMPLETION IN THE HURRICANE WARNING AREA...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>ATCF XML Prototype [xml] - Hurricane Irma (AT1/AL112017)</title>
+<description>Issued at  Tue, 05 Sep 2017 11:59:47 GMT. This is only a prototype and the file format may change without notice.</description>
+<pubDate>Tue, 05 Sep 2017 11:59:47 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT11/atcf-al112017.xml</link>
+<guid isPermaLink="false">atcf-xml-al112017-201709051159</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #025 Forecast [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Tue, 05 Sep 2017 12:07:20 GMT</description>
+<pubDate>Tue, 05 Sep 2017 12:07:20 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al112017_5day_025.zip</link>
+<guid isPermaLink="false">gis-forecast-shp-al112017-025-201709051207</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #025 Forecast Track [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Tue, 05 Sep 2017 12:19:05 GMT</description>
+<pubDate>Tue, 05 Sep 2017 12:19:05 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_025adv_TRACK.kmz</link>
+<guid isPermaLink="false">gis-track-kml-al112017-025-201709051219</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #025 Cone of Uncertainty [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Tue, 05 Sep 2017 12:19:00 GMT</description>
+<pubDate>Tue, 05 Sep 2017 12:19:00 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_025adv_CONE.kmz</link>
+<guid isPermaLink="false">gis-cone-kml-al112017-025-201709051219</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #025 Watches/Warnings [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Tue, 05 Sep 2017 12:19:03 GMT</description>
+<pubDate>Tue, 05 Sep 2017 12:19:03 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_025adv_WW.kmz</link>
+<guid isPermaLink="false">gis-wwa-kml-al112017-025-201709051219</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #025 Wind Field [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Initial and Forecast Surface Winds. Shapefile last updated Tue, 05 Sep 2017 12:07:20 GMT</description>
+<pubDate>Tue, 05 Sep 2017 12:07:20 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al112017_fcst_025.zip</link>
+<guid isPermaLink="false">gis-wind-shp-al112017-025-201709051207</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Track, Points, and Wind Swath. Shapefile last updated Tue, 05 Sep 2017 12:07:20 GMT</description>
+<pubDate>Tue, 05 Sep 2017 12:07:20 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al112017_best_track.zip</link>
+<guid isPermaLink="false">gis-bt-shp-al112017-201709051207</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track Points [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Tue, 05 Sep 2017 12:07:20 GMT</description>
+<pubDate>Tue, 05 Sep 2017 12:07:20 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al112017_best_track.kmz</link>
+<guid isPermaLink="false">gis-btpts-kml-al112017-201709051207</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="http://www.nhc.noaa.gov">
+<channel>
+<pubDate>Tue, 19 Sep 2017 12:33:14 GMT</pubDate>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>Atlantic Basin GIS Data for Active Tropical Cyclones</description>
+<link>http://www.nhc.noaa.gov/gis/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>http://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>http://www.nhc.noaa.gov/</link>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins</title>
+<description>Shapefile last updated Tue, 19 Sep 2017 09:25:27 GMT</description>
+<pubDate>Tue, 19 Sep 2017 09:25:27 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip</link>
+<guid isPermaLink="false">gis-120h5wsp-shp-201709190925</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary - Hurricane Jose (AT2/AL122017)</title>
+ <guid isPermaLink="false">summary-al122017-201709191153</guid>
+ <pubDate>Tue, 19 Sep 2017 11:53:20 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>http://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/191153.shtml</link>
+ <description>
+  ...JOSE STILL A CATEGORY 1 HURRICANE... ...EXPECTED TO PRODUCE DANGEROUS SURF AND RIP CURRENTS ALONG THE EAST COAST OF THE UNITED STATES FOR SEVERAL MORE DAYS...
+ As of 8:00 AM EDT Tue Sep 19
+ the center of Jose was located near 36.3, -71.6
+ with movement N at 9 mph.
+ The minimum central pressure was 973 mb
+ with maximum sustained winds of about 75 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>36.3, -71.6</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Jose</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL122017</nhc:atcf>
+  <nhc:datetime>8:00 AM EDT Tue Sep 19</nhc:datetime>
+  <nhc:movement>N at 9 mph</nhc:movement>
+  <nhc:pressure>973 mb</nhc:pressure>
+  <nhc:wind>75 mph</nhc:wind>
+  <nhc:headline> ...JOSE STILL A CATEGORY 1 HURRICANE... ...EXPECTED TO PRODUCE DANGEROUS SURF AND RIP CURRENTS ALONG THE EAST COAST OF THE UNITED STATES FOR SEVERAL MORE DAYS...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>ATCF XML Prototype [xml] - Hurricane Jose (AT2/AL122017)</title>
+<description>Issued at  Tue, 19 Sep 2017 11:53:25 GMT. This is only a prototype and the file format may change without notice.</description>
+<pubDate>Tue, 19 Sep 2017 11:53:25 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT12/atcf-al122017.xml</link>
+<guid isPermaLink="false">atcf-xml-al122017-201709191153</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #056A Forecast [shp] - Hurricane Jose (AT2/AL122017)</title>
+<description>Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Tue, 19 Sep 2017 11:55:57 GMT</description>
+<pubDate>Tue, 19 Sep 2017 11:55:57 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al122017_5day_056A.zip</link>
+<guid isPermaLink="false">gis-forecast-shp-al122017-056A-201709191155</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #056A Forecast Track [kmz] - Hurricane Jose (AT2/AL122017)</title>
+<description>KMZ last updated Tue, 19 Sep 2017 12:32:46 GMT</description>
+<pubDate>Tue, 19 Sep 2017 12:32:46 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL122017_056Aadv_TRACK.kmz</link>
+<guid isPermaLink="false">gis-track-kml-al122017-056A-201709191232</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #056A Cone of Uncertainty [kmz] - Hurricane Jose (AT2/AL122017)</title>
+<description>KMZ last updated Tue, 19 Sep 2017 12:32:33 GMT</description>
+<pubDate>Tue, 19 Sep 2017 12:32:33 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL122017_056Aadv_CONE.kmz</link>
+<guid isPermaLink="false">gis-cone-kml-al122017-056A-201709191232</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #056A Watches/Warnings [kmz] - Hurricane Jose (AT2/AL122017)</title>
+<description>KMZ last updated Tue, 19 Sep 2017 12:32:39 GMT</description>
+<pubDate>Tue, 19 Sep 2017 12:32:39 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL122017_056Aadv_WW.kmz</link>
+<guid isPermaLink="false">gis-wwa-kml-al122017-056A-201709191232</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #056 Wind Field [shp] - Hurricane Jose (AT2/AL122017)</title>
+<description>Initial and Forecast Surface Winds. Shapefile last updated Tue, 19 Sep 2017 11:55:58 GMT</description>
+<pubDate>Tue, 19 Sep 2017 11:55:58 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al122017_fcst_056.zip</link>
+<guid isPermaLink="false">gis-wind-shp-al122017-056-201709191155</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track [shp] - Hurricane Jose (AT2/AL122017)</title>
+<description>Track, Points, and Wind Swath. Shapefile last updated Tue, 19 Sep 2017 11:55:58 GMT</description>
+<pubDate>Tue, 19 Sep 2017 11:55:58 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al122017_best_track.zip</link>
+<guid isPermaLink="false">gis-bt-shp-al122017-201709191155</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track Points [kmz] - Hurricane Jose (AT2/AL122017)</title>
+<description>KMZ last updated Tue, 19 Sep 2017 11:55:58 GMT</description>
+<pubDate>Tue, 19 Sep 2017 11:55:58 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al122017_best_track.kmz</link>
+<guid isPermaLink="false">gis-btpts-kml-al122017-201709191155</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary - Hurricane Maria (AT5/AL152017)</title>
+ <guid isPermaLink="false">summary-al152017-201709190906</guid>
+ <pubDate>Tue, 19 Sep 2017 09:06:16 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/191150.shtml</link>
+ <description>
+  ...POTENTIALLY CATASTROPHIC HURRICANE MARIA HEADED FOR THE VIRGIN ISLANDS AND PUERTO RICO...
+ As of 8:00 AM AST Tue Sep 19
+ the center of Maria was located near 16.2, -62.8
+ with movement WNW at 9 mph.
+ The minimum central pressure was 933 mb
+ with maximum sustained winds of about 160 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>16.2, -62.8</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Maria</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL152017</nhc:atcf>
+  <nhc:datetime>8:00 AM AST Tue Sep 19</nhc:datetime>
+  <nhc:movement>WNW at 9 mph</nhc:movement>
+  <nhc:pressure>933 mb</nhc:pressure>
+  <nhc:wind>160 mph</nhc:wind>
+  <nhc:headline> ...POTENTIALLY CATASTROPHIC HURRICANE MARIA HEADED FOR THE VIRGIN ISLANDS AND PUERTO RICO...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>ATCF XML Prototype [xml] - Hurricane Maria (AT5/AL152017)</title>
+<description>Issued at  Tue, 19 Sep 2017 11:50:16 GMT. This is only a prototype and the file format may change without notice.</description>
+<pubDate>Tue, 19 Sep 2017 11:50:16 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT15/atcf-al152017.xml</link>
+<guid isPermaLink="false">atcf-xml-al152017-201709191150</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #013A Forecast [shp] - Hurricane Maria (AT5/AL152017)</title>
+<description>Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Tue, 19 Sep 2017 11:52:57 GMT</description>
+<pubDate>Tue, 19 Sep 2017 11:52:57 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al152017_5day_013A.zip</link>
+<guid isPermaLink="false">gis-forecast-shp-al152017-013A-201709191152</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #013A Forecast Track [kmz] - Hurricane Maria (AT5/AL152017)</title>
+<description>KMZ last updated Tue, 19 Sep 2017 12:32:56 GMT</description>
+<pubDate>Tue, 19 Sep 2017 12:32:56 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL152017_013Aadv_TRACK.kmz</link>
+<guid isPermaLink="false">gis-track-kml-al152017-013A-201709191232</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #013A Cone of Uncertainty [kmz] - Hurricane Maria (AT5/AL152017)</title>
+<description>KMZ last updated Tue, 19 Sep 2017 12:32:53 GMT</description>
+<pubDate>Tue, 19 Sep 2017 12:32:53 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL152017_013Aadv_CONE.kmz</link>
+<guid isPermaLink="false">gis-cone-kml-al152017-013A-201709191232</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #013A Watches/Warnings [kmz] - Hurricane Maria (AT5/AL152017)</title>
+<description>KMZ last updated Tue, 19 Sep 2017 12:32:55 GMT</description>
+<pubDate>Tue, 19 Sep 2017 12:32:55 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL152017_013Aadv_WW.kmz</link>
+<guid isPermaLink="false">gis-wwa-kml-al152017-013A-201709191232</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #013 Wind Field [shp] - Hurricane Maria (AT5/AL152017)</title>
+<description>Initial and Forecast Surface Winds. Shapefile last updated Tue, 19 Sep 2017 11:53:55 GMT</description>
+<pubDate>Tue, 19 Sep 2017 11:53:55 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al152017_fcst_013.zip</link>
+<guid isPermaLink="false">gis-wind-shp-al152017-013-201709191153</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track [shp] - Hurricane Maria (AT5/AL152017)</title>
+<description>Track, Points, and Wind Swath. Shapefile last updated Tue, 19 Sep 2017 11:53:55 GMT</description>
+<pubDate>Tue, 19 Sep 2017 11:53:55 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al152017_best_track.zip</link>
+<guid isPermaLink="false">gis-bt-shp-al152017-201709191153</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track Points [kmz] - Hurricane Maria (AT5/AL152017)</title>
+<description>KMZ last updated Tue, 19 Sep 2017 11:53:55 GMT</description>
+<pubDate>Tue, 19 Sep 2017 11:53:55 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al152017_best_track.kmz</link>
+<guid isPermaLink="false">gis-btpts-kml-al152017-201709191153</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

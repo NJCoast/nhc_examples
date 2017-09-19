@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="http://www.nhc.noaa.gov">
+<channel>
+<pubDate>Mon, 04 Sep 2017 12:18:46 GMT</pubDate>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>Atlantic Basin GIS Data for Active Tropical Cyclones</description>
+<link>http://www.nhc.noaa.gov/gis/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>http://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>http://www.nhc.noaa.gov/</link>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins</title>
+<description>Shapefile last updated Mon, 04 Sep 2017 09:25:22 GMT</description>
+<pubDate>Mon, 04 Sep 2017 09:25:22 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip</link>
+<guid isPermaLink="false">gis-120h5wsp-shp-201709040925</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary - Hurricane Irma (AT1/AL112017)</title>
+ <guid isPermaLink="false">summary-al112017-201709041148</guid>
+ <pubDate>Mon, 04 Sep 2017 11:48:56 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/041148.shtml</link>
+ <description>
+  ...NOAA HURRICANE HUNTER AIRCRAFT FINDS IRMA A LITTLE STRONGER...
+ As of 8:00 AM AST Mon Sep 4
+ the center of Irma was located near 16.8, -52.6
+ with movement WSW at 14 mph.
+ The minimum central pressure was 947 mb
+ with maximum sustained winds of about 120 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>16.8, -52.6</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Irma</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL112017</nhc:atcf>
+  <nhc:datetime>8:00 AM AST Mon Sep 4</nhc:datetime>
+  <nhc:movement>WSW at 14 mph</nhc:movement>
+  <nhc:pressure>947 mb</nhc:pressure>
+  <nhc:wind>120 mph</nhc:wind>
+  <nhc:headline> ...NOAA HURRICANE HUNTER AIRCRAFT FINDS IRMA A LITTLE STRONGER...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>ATCF XML Prototype [xml] - Hurricane Irma (AT1/AL112017)</title>
+<description>Issued at  Mon, 04 Sep 2017 11:48:36 GMT. This is only a prototype and the file format may change without notice.</description>
+<pubDate>Mon, 04 Sep 2017 11:48:36 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT11/atcf-al112017.xml</link>
+<guid isPermaLink="false">atcf-xml-al112017-201709041148</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #020A Forecast [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Mon, 04 Sep 2017 11:50:30 GMT</description>
+<pubDate>Mon, 04 Sep 2017 11:50:30 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al112017_5day_020A.zip</link>
+<guid isPermaLink="false">gis-forecast-shp-al112017-020A-201709041150</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #020A Forecast Track [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Mon, 04 Sep 2017 12:18:44 GMT</description>
+<pubDate>Mon, 04 Sep 2017 12:18:44 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_020Aadv_TRACK.kmz</link>
+<guid isPermaLink="false">gis-track-kml-al112017-020A-201709041218</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #020A Cone of Uncertainty [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Mon, 04 Sep 2017 12:18:40 GMT</description>
+<pubDate>Mon, 04 Sep 2017 12:18:40 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_020Aadv_CONE.kmz</link>
+<guid isPermaLink="false">gis-cone-kml-al112017-020A-201709041218</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #020A Watches/Warnings [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Mon, 04 Sep 2017 12:18:42 GMT</description>
+<pubDate>Mon, 04 Sep 2017 12:18:42 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_020Aadv_WW.kmz</link>
+<guid isPermaLink="false">gis-wwa-kml-al112017-020A-201709041218</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #020 Wind Field [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Initial and Forecast Surface Winds. Shapefile last updated Mon, 04 Sep 2017 11:50:30 GMT</description>
+<pubDate>Mon, 04 Sep 2017 11:50:30 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al112017_fcst_020.zip</link>
+<guid isPermaLink="false">gis-wind-shp-al112017-020-201709041150</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Track, Points, and Wind Swath. Shapefile last updated Mon, 04 Sep 2017 11:50:30 GMT</description>
+<pubDate>Mon, 04 Sep 2017 11:50:30 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al112017_best_track.zip</link>
+<guid isPermaLink="false">gis-bt-shp-al112017-201709041150</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track Points [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Mon, 04 Sep 2017 11:50:30 GMT</description>
+<pubDate>Mon, 04 Sep 2017 11:50:30 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al112017_best_track.kmz</link>
+<guid isPermaLink="false">gis-btpts-kml-al112017-201709041150</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

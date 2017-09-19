@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="http://www.nhc.noaa.gov">
+<channel>
+<pubDate>Fri, 08 Sep 2017 13:55:35 GMT</pubDate>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>Atlantic Basin GIS Data for Active Tropical Cyclones</description>
+<link>http://www.nhc.noaa.gov/gis/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>http://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>http://www.nhc.noaa.gov/</link>
+<title>National Hurricane Center GIS Data (Atlantic)</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins</title>
+<description>Shapefile last updated Fri, 08 Sep 2017 09:24:51 GMT</description>
+<pubDate>Fri, 08 Sep 2017 09:24:51 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip</link>
+<guid isPermaLink="false">gis-120h5wsp-shp-201709080924</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary - Hurricane Irma (AT1/AL112017)</title>
+ <guid isPermaLink="false">summary-al112017-201709081138</guid>
+ <pubDate>Fri, 08 Sep 2017 11:38:32 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/081138.shtml</link>
+ <description>
+  ...CORE OF HURRICANE IRMA FORECAST TO MOVE BETWEEN THE CENTRAL BAHAMAS AND THE NORTH COAST OF CUBA TODAY...
+ As of 8:00 AM EDT Fri Sep 8
+ the center of Irma was located near 21.8, -74.7
+ with movement WNW at 16 mph.
+ The minimum central pressure was 927 mb
+ with maximum sustained winds of about 150 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>21.8, -74.7</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Irma</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL112017</nhc:atcf>
+  <nhc:datetime>8:00 AM EDT Fri Sep 8</nhc:datetime>
+  <nhc:movement>WNW at 16 mph</nhc:movement>
+  <nhc:pressure>927 mb</nhc:pressure>
+  <nhc:wind>150 mph</nhc:wind>
+  <nhc:headline> ...CORE OF HURRICANE IRMA FORECAST TO MOVE BETWEEN THE CENTRAL BAHAMAS AND THE NORTH COAST OF CUBA TODAY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>ATCF XML Prototype [xml] - Hurricane Irma (AT1/AL112017)</title>
+<description>Issued at  Fri, 08 Sep 2017 11:38:59 GMT. This is only a prototype and the file format may change without notice.</description>
+<pubDate>Fri, 08 Sep 2017 11:38:59 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT11/atcf-al112017.xml</link>
+<guid isPermaLink="false">atcf-xml-al112017-201709081138</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #037A Forecast [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Fri, 08 Sep 2017 11:41:23 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:41:23 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al112017_5day_037A.zip</link>
+<guid isPermaLink="false">gis-forecast-shp-al112017-037A-201709081141</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #037A Forecast Track [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:22 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:22 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_037Aadv_TRACK.kmz</link>
+<guid isPermaLink="false">gis-track-kml-al112017-037A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #037A Cone of Uncertainty [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:13 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:13 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_037Aadv_CONE.kmz</link>
+<guid isPermaLink="false">gis-cone-kml-al112017-037A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #037A Watches/Warnings [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:17 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:17 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL112017_037Aadv_WW.kmz</link>
+<guid isPermaLink="false">gis-wwa-kml-al112017-037A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #037 Wind Field [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Initial and Forecast Surface Winds. Shapefile last updated Fri, 08 Sep 2017 11:41:23 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:41:23 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al112017_fcst_037.zip</link>
+<guid isPermaLink="false">gis-wind-shp-al112017-037-201709081141</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Track, Points, and Wind Swath. Shapefile last updated Fri, 08 Sep 2017 11:41:23 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:41:23 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al112017_best_track.zip</link>
+<guid isPermaLink="false">gis-bt-shp-al112017-201709081141</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track Points [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 11:41:23 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:41:23 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al112017_best_track.kmz</link>
+<guid isPermaLink="false">gis-btpts-kml-al112017-201709081141</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Probabilistic Storm Surge 5ft [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Shapefile last updated Fri, 08 Sep 2017 09:38:02 GMT</description>
+<pubDate>Fri, 08 Sep 2017 09:38:02 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/storm_surge/al112017_psurge5_latest.zip</link>
+<guid isPermaLink="false">gis-psurge5-shp-al112017-201709080938</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Probabilistic Storm Surge 5ft [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated 201709080938</description>
+<pubDate>201709080938</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT11/AL1117_psurge5_latest.kmz</link>
+<guid isPermaLink="false">gis-psurge5-kml-al112017-201709080938</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Exceedance Storm Surge 10% [shp] - Hurricane Irma (AT1/AL112017)</title>
+<description>Shapefile last updated Fri, 08 Sep 2017 09:38:01 GMT</description>
+<pubDate>Fri, 08 Sep 2017 09:38:01 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/storm_surge/al112017_esurge10_latest.zip</link>
+<guid isPermaLink="false">gis-esurge10-shp-al112017-201709080938</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Exceedance Storm Surge 10% [kmz] - Hurricane Irma (AT1/AL112017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 09:38:15 GMT</description>
+<pubDate>Fri, 08 Sep 2017 09:38:15 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT11/AL1117_exceed10_latest.kmz</link>
+<guid isPermaLink="false">gis-esurge10-kml-al112017-201709080938</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Potential Storm Surge Flooding Map [GeoTIFF] - Hurricane Irma (AT1/AL112017)</title>
+<description>Last updated Fri, 08 Sep 2017 10:00:05 GMT</description>
+<pubDate>Fri, 08 Sep 2017 10:00:05 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/inundation/forecasts/AL112017_inundation_latest.zip</link>
+<guid isPermaLink="false">gis-inundation-geotiff-al112017-201709081000</guid>
+<instructions>http://www.nhc.noaa.gov/gis/inundation/potential_storm_surge_flooding_downloads_guide.pdf</instructions>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Potential Storm Surge Flooding Map with Intertidal Mask [GeoTIFF] - Hurricane Irma (AT1/AL112017)</title>
+<description>Last updated Fri, 08 Sep 2017 10:00:05 GMT</description>
+<pubDate>Fri, 08 Sep 2017 10:00:05 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/inundation/forecasts/AL112017_tidalmask_latest.zip</link>
+<guid isPermaLink="false">gis-tidalmask-geotiff-al112017-201709081000</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+<instructions>http://www.nhc.noaa.gov/gis/inundation/potential_storm_surge_flooding_downloads_guide.pdf</instructions>
+</item>
+<item>
+<title>Storm Surge Watch/Warning Map [kml] - Hurricane Irma (AT1/AL112017)</title>
+<description>Last updated Fri, 08 Sep 2017 08:49:37 GMT</description>
+<pubDate>Fri, 08 Sep 2017 08:49:37 GMT</pubDate>
+<link>/home/httpadm/incoming/graphics/AT11/WatchWarningSS_latest.kml</link>
+<guid isPermaLink="false">storm-surge-watch-warning-al112017-201709080849</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary - Hurricane Jose (AT2/AL122017)</title>
+ <guid isPermaLink="false">summary-al122017-201709081355</guid>
+ <pubDate>Fri, 08 Sep 2017 13:55:04 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>http://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/081141.shtml</link>
+ <description>
+  ...HURRICANE HUNTER PLANE FINDS JOSE IS A CATEGORY 4 HURRICANE...
+ As of 10:00 AM AST Fri Sep 8
+ the center of Jose was located near 16.2, -56.9
+ with movement WNW at 18 mph.
+ The minimum central pressure was 942 mb
+ with maximum sustained winds of about 150 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>16.2, -56.9</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Jose</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL122017</nhc:atcf>
+  <nhc:datetime>10:00 AM AST Fri Sep 8</nhc:datetime>
+  <nhc:movement>WNW at 18 mph</nhc:movement>
+  <nhc:pressure>942 mb</nhc:pressure>
+  <nhc:wind>150 mph</nhc:wind>
+  <nhc:headline> ...HURRICANE HUNTER PLANE FINDS JOSE IS A CATEGORY 4 HURRICANE...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>ATCF XML Prototype [xml] - Hurricane Jose (AT2/AL122017)</title>
+<description>Issued at  Fri, 08 Sep 2017 11:41:50 GMT. This is only a prototype and the file format may change without notice.</description>
+<pubDate>Fri, 08 Sep 2017 11:41:50 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT12/atcf-al122017.xml</link>
+<guid isPermaLink="false">atcf-xml-al122017-201709081141</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #012A Forecast [shp] - Hurricane Jose (AT2/AL122017)</title>
+<description>Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Fri, 08 Sep 2017 11:43:34 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:43:34 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al122017_5day_012A.zip</link>
+<guid isPermaLink="false">gis-forecast-shp-al122017-012A-201709081143</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #012A Forecast Track [kmz] - Hurricane Jose (AT2/AL122017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:29 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:29 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL122017_012Aadv_TRACK.kmz</link>
+<guid isPermaLink="false">gis-track-kml-al122017-012A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #012A Cone of Uncertainty [kmz] - Hurricane Jose (AT2/AL122017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:26 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:26 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL122017_012Aadv_CONE.kmz</link>
+<guid isPermaLink="false">gis-cone-kml-al122017-012A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #012A Watches/Warnings [kmz] - Hurricane Jose (AT2/AL122017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:28 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:28 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL122017_012Aadv_WW.kmz</link>
+<guid isPermaLink="false">gis-wwa-kml-al122017-012A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #012 Wind Field [shp] - Hurricane Jose (AT2/AL122017)</title>
+<description>Initial and Forecast Surface Winds. Shapefile last updated Fri, 08 Sep 2017 11:43:34 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:43:34 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al122017_fcst_012.zip</link>
+<guid isPermaLink="false">gis-wind-shp-al122017-012-201709081143</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track [shp] - Hurricane Jose (AT2/AL122017)</title>
+<description>Track, Points, and Wind Swath. Shapefile last updated Fri, 08 Sep 2017 11:43:34 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:43:34 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al122017_best_track.zip</link>
+<guid isPermaLink="false">gis-bt-shp-al122017-201709081143</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track Points [kmz] - Hurricane Jose (AT2/AL122017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 11:43:34 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:43:34 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al122017_best_track.kmz</link>
+<guid isPermaLink="false">gis-btpts-kml-al122017-201709081143</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary - Hurricane Katia (AT3/AL132017)</title>
+ <guid isPermaLink="false">summary-al132017-201709081156</guid>
+ <pubDate>Fri, 08 Sep 2017 11:56:23 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>http://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/081156.shtml</link>
+ <description>
+  ...AIR FORCE PLANE ABOUT TO INVESTIGATE KATIA...
+ As of 7:00 AM CDT Fri Sep 8
+ the center of Katia was located near 21.1, -95.6
+ with movement WSW at 3 mph.
+ The minimum central pressure was 977 mb
+ with maximum sustained winds of about 90 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>21.1, -95.6</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Katia</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL132017</nhc:atcf>
+  <nhc:datetime>7:00 AM CDT Fri Sep 8</nhc:datetime>
+  <nhc:movement>WSW at 3 mph</nhc:movement>
+  <nhc:pressure>977 mb</nhc:pressure>
+  <nhc:wind>90 mph</nhc:wind>
+  <nhc:headline> ...AIR FORCE PLANE ABOUT TO INVESTIGATE KATIA...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>ATCF XML Prototype [xml] - Hurricane Katia (AT3/AL132017)</title>
+<description>Issued at  Fri, 08 Sep 2017 11:57:02 GMT. This is only a prototype and the file format may change without notice.</description>
+<pubDate>Fri, 08 Sep 2017 11:57:02 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/AT13/atcf-al132017.xml</link>
+<guid isPermaLink="false">atcf-xml-al132017-201709081157</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #011A Forecast [shp] - Hurricane Katia (AT3/AL132017)</title>
+<description>Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Fri, 08 Sep 2017 11:57:59 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:57:59 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al132017_5day_011A.zip</link>
+<guid isPermaLink="false">gis-forecast-shp-al132017-011A-201709081157</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #011A Forecast Track [kmz] - Hurricane Katia (AT3/AL132017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:33 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:33 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL132017_011Aadv_TRACK.kmz</link>
+<guid isPermaLink="false">gis-track-kml-al132017-011A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #011A Cone of Uncertainty [kmz] - Hurricane Katia (AT3/AL132017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:31 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:31 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL132017_011Aadv_CONE.kmz</link>
+<guid isPermaLink="false">gis-cone-kml-al132017-011A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #011A Watches/Warnings [kmz] - Hurricane Katia (AT3/AL132017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 13:55:32 GMT</description>
+<pubDate>Fri, 08 Sep 2017 13:55:32 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/storm_graphics/api/AL132017_011Aadv_WW.kmz</link>
+<guid isPermaLink="false">gis-wwa-kml-al132017-011A-201709081355</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Advisory #011 Wind Field [shp] - Hurricane Katia (AT3/AL132017)</title>
+<description>Initial and Forecast Surface Winds. Shapefile last updated Fri, 08 Sep 2017 11:57:59 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:57:59 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/forecast/archive/al132017_fcst_011.zip</link>
+<guid isPermaLink="false">gis-wind-shp-al132017-011-201709081157</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track [shp] - Hurricane Katia (AT3/AL132017)</title>
+<description>Track, Points, and Wind Swath. Shapefile last updated Fri, 08 Sep 2017 11:57:59 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:57:59 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al132017_best_track.zip</link>
+<guid isPermaLink="false">gis-bt-shp-al132017-201709081157</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Preliminary Best Track Points [kmz] - Hurricane Katia (AT3/AL132017)</title>
+<description>KMZ last updated Fri, 08 Sep 2017 11:57:59 GMT</description>
+<pubDate>Fri, 08 Sep 2017 11:57:59 GMT</pubDate>
+<link>http://www.nhc.noaa.gov/gis/best_track/al132017_best_track.kmz</link>
+<guid isPermaLink="false">gis-btpts-kml-al132017-201709081157</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
