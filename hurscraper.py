@@ -27,11 +27,24 @@ if __name__ == "__main__":
         d = feedparser.parse('http://www.nhc.noaa.gov/gis-at.xml')
     except Exception as ex:
         print("Cannot parse rss feed => " + str(ex))
-    print(d.entries[0].title)
 
   #  for i in d.entries:
   #      if 'Summary' in i.title:
   #          print(i.title)
+    summary_index = []
     for index, item in enumerate(d.entries):
         if 'Summary' in item.title:
+            summary_index.append(index)
             print(index, item.title)
+            print(d.entries[index].nhc_name)
+            print(d.entries[index].nhc_type)
+            print(d.entries[index].nhc_wind)
+            print(d.entries[index].nhc_pressure)
+            print(d.entries[index].nhc_center)
+            print(d.entries[index].nhc_movement)
+        if 'Forecast Track [kmz]' in item.title:
+            print(d.entries[index].title)
+            print(d.entries[index].link)
+        if 'Preliminary Best Track Points [kmz]' in item.title:
+            print(d.entries[index].title)
+            print(d.entries[index].link)
